@@ -289,9 +289,11 @@
   <p>
     <a href="#">Back to top</a>
   </p>
+
+  &copy; <?php echo date ('Y');?>
+  
 </footer>
 
 
-    
   </body>
 </html>
